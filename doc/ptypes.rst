@@ -98,7 +98,7 @@ Packable types
       the second the packable type for the field.
 
       Every subclass of :class:`Structure` must define *_fields_* to be
-      usefull, and the value of *_fields_* should not be changed after
+      useful, and the value of *_fields_* should not be changed after
       class construction.
 
 
